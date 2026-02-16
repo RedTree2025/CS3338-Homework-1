@@ -1,3 +1,33 @@
+commit 9ccdbf74fcd0aada6210362a6a98aec8d266ccc7
+Author: RedTree2025 <jlopez692@calstatela.edu>
+Date:   Sun Feb 15 23:30:41 2026 -0800
+
+    Update index.html
+    
+    added my name to copyright
+
+commit d9a8671fb45f1024b7ae2ea858416d29a7728243
+Author: kngo67890 <kngo67890@gmail.com>
+Date:   Sun Feb 15 23:13:32 2026 -0800
+
+    Update groupmate information in index.html
+
+commit 450deba0a31c87d54d3f0bbc0f1171fe2251ced3
+Author: RedTree2025 <jlopez692@calstatela.edu>
+Date:   Sun Feb 15 21:13:04 2026 -0800
+
+    Create repo-location.txt
+    
+    Added repo-location.txt
+
+commit 9cf253fa572d2a6478da20ceac1150b716f9bc6c
+Author: RedTree2025 <jlopez692@calstatela.edu>
+Date:   Sun Feb 15 21:09:19 2026 -0800
+
+    Create git_log.txt
+    
+    git Log created and deleted branch.
+
 commit 98fa7f88cd4d1e8299a64547bc20e546f0086bf1
 Author: RedTree2025 <jlopez692@calstatela.edu>
 Date:   Sun Feb 15 19:58:57 2026 -0800
