@@ -1,0 +1,68 @@
+commit 98fa7f88cd4d1e8299a64547bc20e546f0086bf1
+Author: RedTree2025 <jlopez692@calstatela.edu>
+Date:   Sun Feb 15 19:58:57 2026 -0800
+
+    Create README.md
+
+commit 1f44d5a44959572c560c7f292e68f575ca37f87e
+Merge: f37cdce b612eb6
+Author: RedTree2025 <jlopez692@calstatela.edu>
+Date:   Sun Feb 15 19:54:03 2026 -0800
+
+    Merge pull request #1 from RedTree2025/feature-about-me
+    
+    Feature about me
+
+commit b612eb6de6e13f3d343180993a92724305b47aef
+Merge: 96a1b1e f37cdce
+Author: RedTree2025 <jlopez692@calstatela.edu>
+Date:   Sun Feb 15 19:53:41 2026 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit 96a1b1e6cd55ae88d315c36cdd4cafc16d582e96
+Author: RedTree2025 <jlopez692@calstatela.edu>
+Date:   Sun Feb 15 19:49:18 2026 -0800
+
+    Update index.html
+    
+    Enter my information
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
